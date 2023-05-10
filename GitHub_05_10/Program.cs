@@ -10,7 +10,8 @@ namespace GitHub_05_10
     {
         static void Main(string[] args)
         {
-
+            string name = "竹村+";
+            Console.WriteLine(name);
         }
     }
 }
